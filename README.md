@@ -1,5 +1,6 @@
 # Hyttkontakt
-Contact between back and inside
+Contact between the chassi's inside and outside. Using a Deutsch DT15-12PA and JST-EH (2.50 mm pitch). 
+
 
 ## Pinout 
 1. 12V
